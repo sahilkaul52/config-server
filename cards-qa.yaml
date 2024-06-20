@@ -1,0 +1,11 @@
+build:
+  version: "3.5"
+
+cards:
+  message: "Welcome to hdfc cards related QA APIs "
+  contactDetails:
+    name: "Pankaj - QA Lead"
+    email: "Pankaj@hdfc.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267

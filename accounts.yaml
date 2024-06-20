@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to hdfc accounts related local APIs "
+  contactDetails:
+    name: "John Cena - Developer"
+    email: "john@hdfc.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

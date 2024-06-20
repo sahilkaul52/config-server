@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to icici cards related local APIs "
+  contactDetails:
+    name: "Sumeer - Developer"
+    email: "Sumeer@icici.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932
