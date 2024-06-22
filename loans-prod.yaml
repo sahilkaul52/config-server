@@ -5,7 +5,7 @@ loans:
   message: "Welcome to Sahil's bank loans related prod APIs "
   contactDetails:
     name: "Rahul - Product Owner"
-    email: "pelias@sahilbank.com"
+    email: "rahul@sahilbank.com"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
