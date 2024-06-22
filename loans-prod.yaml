@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Sahil's bank loans related prod APIs "
+  message: "Welcome to Sahil's bank, loans related production APIs "
   contactDetails:
     name: "Rahul - Product Owner"
     email: "rahul@sahilbank.com"
