@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to Sahil's bank loans related QA APIs "
   contactDetails:
-    name: "Cyrano Marita - QA Lead"
-    email: "cyrano@eazybank.com"
+    name: "Ramesh - QA Lead"
+    email: "Ramesh@sahilbank.com"
   onCallSupport:
     - (785) 545-6565
     - (853) 546-3467
